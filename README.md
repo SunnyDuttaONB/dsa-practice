@@ -8,13 +8,7 @@ This repository contains a variety of problems and solutions across different to
 
 The repository is organized into individual C++ files, each addressing a specific problem or concept. As of now, the repository includes:
 
-Q1.cpp: [Brief description of what this file contains]
 
-Q2.cpp: [Brief description of what this file contains]
-
-Q3.cpp: [Brief description of what this file contains]
-
-Q3_ex.cpp: [Brief description of what this file contains]
 
 Each file is self-contained and includes comments to explain the logic and approach used to solve the problem.
 
